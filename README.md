@@ -27,6 +27,6 @@ The data given is tweet data of English and Spanish languages.
 | roh-neil_1 			|Task 3						| Hard -Hard ALL	|**1**|
 | roh-neil_1 			|Task 3						| Hard -Soft ALL	|13|
 
-The given code achieves good results on hard labels consistently but fail to perform well on soft labels. One reason could be not using the right logistic loss.
+The given code achieves good results on hard labels consistently but fail to perform well on soft labels. One reason could be not using the right logistic loss for the direct probabilities.
 
 Key Information is that I use a twitter trained XLM-Roberta_large model from Hugging Face library called sdadas/xlm-roberta-large-twitter (which can be found here: https://huggingface.co/sdadas/xlm-roberta-large-twitter)
