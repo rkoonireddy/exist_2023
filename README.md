@@ -1,6 +1,6 @@
 # exist_2023
 sEXIST task for CEFR 2023
-This repository contains code to use EXIST2023 task from CEFR. 
+This repository contains code to use EXIST2023 task from CLEF. 
 
 More information about the task can be found here:
 http://nlp.uned.es/exist2023/
