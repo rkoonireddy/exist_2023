@@ -11,8 +11,8 @@ You can also find the details from the website above.
 The data given is tweet data of English and Spanish languages.
 
 - Task 1 is a binary classification task 
-- Task 2 is a multi label classification task
-- Task 3 is a multi class classification task
+- Task 2 is a multi class classification task
+- Task 3 is a multi label classification task
 
 | Submission Name | Task Type				|Sub Task 				|Rank 						|
 |-----------------|-----------------|-----------------|-----------------|
