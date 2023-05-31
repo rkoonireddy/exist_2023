@@ -1,5 +1,6 @@
 # exist_2023
-sEXIST task for CEFR 2023
+sEXIST task for CLEF 2023
+
 This repository contains code to use EXIST2023 task from CLEF. 
 
 More information about the task can be found here:
